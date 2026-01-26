@@ -1,26 +1,36 @@
 @import "tailwindcss";
 
+/* --- Design Tokens --- */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+	--background: #f2e6e4;
+	--foreground: #12141e;
 }
 
+/* --- Theme Configuration --- */
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+	--color-background: var(--background);
+	--color-foreground: var(--foreground);
+	--font-main: var(--font-nenu);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
+/* --- Base Styles --- */
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+	background: var(--background);
+	color: var(--foreground);
+	font-family: var(--font-main), Arial, Helvetica, sans-serif;
+}
+
+/* --- Utilities --- */
+@layer utilities {
+	/**
+	 * Hides scrollbars across different browsers while preserving scroll functionality.
+	 * Includes vendor-specific fixes for Webkit (Safari/Chrome), IE/Edge, and Firefox.
+	 */
+	.no-scrollbar::-webkit-scrollbar {
+		display: none;
+	}
+	.no-scrollbar {
+		-ms-overflow-style: none;
+		scrollbar-width: none;
+	}
 }
